@@ -4,6 +4,8 @@ import dio.challenge.patterns.strategy.Strategy;
 
 public class Pessoas {
 
+    //Padrão de projeto Stategy
+
     private Strategy strategy;
 
     public Pessoas(Strategy strategy){
